@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;400;800&display=swap');
+
+body {
+  font-family: "Roboto Slab", 'Courier New', Courier, monospace;
+  background-image: url(https://cdn.pixabay.com/photo/2015/10/22/17/45/leaf-1001679__480.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+}
